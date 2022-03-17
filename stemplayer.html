@@ -3,7 +3,8 @@
 <head>
 	<title>00a</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+    <link rel="stylesheet" type="text/css" href="assets/css/fontawesome-all.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/player.css">
     <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
     <link rel="shortcut icon" type="image/png" href="images/Favicon.png">
@@ -23,7 +24,7 @@
 
 
     <!--- left part --->
-     <div class="left">
+    <div class="left">
 
       <!--- song img --->
       <img id="track_image">
@@ -32,7 +33,6 @@
             <i class="fa fa-volume-up" aria-hidden="true" onclick="mute_sound()" id="volume_icon"></i>
             <input type="range" min="0" max="100" value="90" onchange="volume_change()" id="volume">  
          </div>
-
      </div>
  
      <!--- right part --->
@@ -54,15 +54,12 @@
         <div class="duration">
            <input type="range" min="0" max="100" value="0" id="duration_slider" onchange="change_duration()">
            <button id="auto" onclick="autoplay_switch()">Auto &nbsp;<i class="fa fa-circle-o-notch" aria-hidden="true"></i></button>
-        </div>
-           
+        </div>    
   	</div>
-
-
   </div>
    
   <!--- Add javascript file --->
-  <script src="player.js"></script>
+  <script src="assets/js/player.js"></script>
 
 </body>
 </html>

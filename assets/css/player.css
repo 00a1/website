@@ -1,9 +1,15 @@
+@font-face {
+	font-family: "Helvetica Neue LT W05 65 Medium";
+	src: url(assets/webfonts/font.240c57a0-fdce-440d-9ce3-85e0cb56f470..woff2) format("woff2"),url(assets/webfonts/font.7802e576-2ffa-4f22-a409-534355fbea79..woff) format("woff")
+}
+
 *{
 	margin: 0;
 	padding: 0;
 	font-family: cursive;
 }
 body{
+	font-family: "Helvetica Neue LT W05 65 Medium",Helvetica,Arial,sans-serif;
 	min-height: 100vh;
 	display: grid;
 	place-items: center;
@@ -153,6 +159,9 @@ input[type="range"]::-webkit-slider-thumb{
 /*	border: 1px solid #fff;*/
 }
 .song_detail #title{
+	font-family: "Helvetica Neue LT W05 65 Medium",Helvetica,Arial,sans-serif;
+	font-size: 29px;
+	font-weight: 400;
 	text-transform: capitalize;
 	color: #fff;
 	font-size: 35px;

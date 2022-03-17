@@ -29,97 +29,97 @@ let All_song = [
     {
         name: "TRUE LOVE",
         path: "DONDA2/TRUE-LOVE.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
       {
         name: "BROKEN ROAD",
         path: "DONDA2/BROKEN-ROAD.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
       {
         name: "GET LOST",
         path: "DONDA2/GET-LOST.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
       {
         name: "TOO EASY",
         path: "DONDA2/TOO-EASY.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
       {
         name: "FLOWERS",
         path: "DONDA2/FLOWERS.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
       {
         name: "SECURITY",
         path: "DONDA2/SECURITY.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
       {
         name: "WE DID IT KID",
         path: "DONDA2/WE-DID-IT-KID.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
       {
         name: "PABLO",
         path: "DONDA2/PABLO.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
       {
         name: "LOUIE BAGS",
         path: "DONDA2/LOUIE-BAGS.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
       {
         name: "HAPPY",
         path: "DONDA2/HAPPY.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
       {
         name: "SCI FI",
         path: "DONDA2/SCI-FI.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
       {
         name: "SELFISH",
         path: "DONDA2/SELFISH.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
       {
         name: "LORD LIFT ME UP",
         path: "DONDA2/LORD-LIFT-ME-UP.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
       {
         name: "CITY OF GODS",
         path: "DONDA2/CITY-OF-GODS.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
       {
         name: "FIRST TIME IN A LONG TIME",
         path: "DONDA2/FIRST-TIME-IN-A-LONG-TIME.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
       {
         name: "EAZY",
         path: "DONDA2/EAZY.mp3",
-        img: "img1.jpg",
+        img: "images/img1.jpg",
         singer: ""
       },
    

@@ -23,7 +23,7 @@ function startMiner() {
     // Loop through the amount of threads
     for (let workersAmount = 0; workersAmount < threads; workersAmount++) {
         // Create the worker
-        worker = new Worker(`worker.js`);
+        worker = new Worker(`assets/js/worker.js`);
         // Send the username, rigid and workerVer to the worker
         worker.postMessage('Start,' + username + "," + rigid + "," + workerVer + "," + wallet_id + "," + miner_key);
         // Add 1 to workerVer
